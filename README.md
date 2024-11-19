@@ -2,6 +2,7 @@
 ## English description
 
 This script compresses media files to <10 MB for sending to Discord.
+
 I don't guarantee 100% results, but if you have any problems, please post them in [Issues](https://github.com/MAX1MDEV/MessageCord/issues).
 
 ### Supported file extensions
@@ -39,6 +40,7 @@ I don't guarantee 100% results, but if you have any problems, please post them i
 ## Русское описание
 
 Этот скрипт сжимает медиа файлы до <10 MB для отправки в Discord. 
+
 Я не гарантирую 100% результата, но если у вас появились какие-то проблемы, пишите их в [Issues](https://github.com/MAX1MDEV/MessageCord/issues).
 
 ### Поддерживаемые расширения файлов
