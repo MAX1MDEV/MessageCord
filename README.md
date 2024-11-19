@@ -27,6 +27,11 @@ I don't guarantee 100% results, but if you have any problems, please post them i
     python main.py
     ```
 
+### If you have any questions dm me:
+<a href="https://discord.com/users/390102465586003978" target="_blank">
+    <img src="https://lanyard.kyrie25.dev/api/390102465586003978?animated=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Found%20my%20perfect%20match...%20in%20programming&useDisplayName=true" alt="Discord Presence"/>
+</a>
+
 [Changelog](CHANGELOG.md)
 
 ***
@@ -58,5 +63,10 @@ I don't guarantee 100% results, but if you have any problems, please post them i
     ```
     python main.py
     ```
+
+### Если у вас есть какие-либо вопросы напишите мне:
+<a href="https://discord.com/users/390102465586003978" target="_blank">
+    <img src="https://lanyard.kyrie25.dev/api/390102465586003978?animated=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Found%20my%20perfect%20match...%20in%20programming&useDisplayName=true" alt="Discord Presence"/>
+</a>
 
 [Changelog](CHANGELOG.md)
