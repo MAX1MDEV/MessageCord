@@ -19,8 +19,10 @@ I don't guarantee 100% results, but if you have any problems, please post them i
     ```
     pip install -r requirements.txt
     ```
+    
+2. Download [ffmpeg](https://www.ffmpeg.org/download.html) and copy the bin folder to the directory next to the script.
 
-2.  
+3.  
     ```
     python main.py
     ```
@@ -49,8 +51,10 @@ I don't guarantee 100% results, but if you have any problems, please post them i
     ```
     pip install -r requirements.txt
     ```
+    
+2. Скачайте [ffmpeg](https://www.ffmpeg.org/download.html) и скопируйте папку bin в директорию рядом со скриптом.
 
-2.  
+3.  
     ```
     python main.py
     ```
