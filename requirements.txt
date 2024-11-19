@@ -1,0 +1,7 @@
+pillow==11.0.0
+ffmpeg-python==0.2.0
+pywin32==308
+pywin32-ctypes==0.2.3
+windows-curses==2.4.0
+curses-menu==0.8.3
+configparser==7.1.0
